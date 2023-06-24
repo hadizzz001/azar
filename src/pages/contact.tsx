@@ -5,8 +5,7 @@ import Head  from 'next/head'
 import React, { useRef, useState } from 'react'
 import emailjs from '@emailjs/browser';
 import Btn from '@/Components/Btn/Btn'
-import {BsFillSendFill} from 'react-icons/bs'
-import ContactForm from '@/Components/ContactForm'
+import {BsFillSendFill} from 'react-icons/bs' 
 import Link from 'next/link'
 const Index = () => {
  
