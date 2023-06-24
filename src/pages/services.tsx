@@ -113,10 +113,10 @@ const Services = () => {
                     <Box sx={{ margin: '0 auto', maxWidth: 'xl', px: '1em', py: { xs: '4em', md: '7em' }, minHeight: '200px' }}>
                         <Box sx={{ maxWidth: 'md', margin: '0 auto' }}>
 
-                            <Typography className='hero-t1 hid' sx={{ color: 'black', opacity: 0, lineHeight: '1.1em', maxWidth: { xs: '600px', lg: '800px' }, fontSize: { xs: '2.75em', sm: '4.2em', md: '4.7em' }, fontWeight: 'bolder' }} component='h1'>
+                            <Typography className='hero-t1 hid' sx={{ color: 'black', opacity: 1, lineHeight: '1.1em', maxWidth: { xs: '600px', lg: '800px' }, fontSize: { xs: '2.75em', sm: '4.2em', md: '4.7em' }, fontWeight: 'bolder' }} component='h1'>
                                 {'Our Services and Solutions'}
                             </Typography>
-                            <Typography className=' hero-t2  hid' sx={{ color: 'black', opacity: 0, maxWidth: '450px', my: { xs: 2.5, md: 2.5 }, fontSize: { xs: '.80em' } }} component='h4'>
+                            <Typography className=' hero-t2  hid' sx={{ color: 'black', opacity: 1, maxWidth: '450px', my: { xs: 2.5, md: 2.5 }, fontSize: { xs: '.80em' } }} component='h4'>
                                 {'Our experienced team of IT professionals , food wholesalers, taxi, digital business expert and import export. We provide ongoing support to help you achieve success.'}
                             </Typography>
 
